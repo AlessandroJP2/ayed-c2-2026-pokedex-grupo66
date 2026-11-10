@@ -1,4 +1,4 @@
-import sys
+import src
 
 #Se crea un diccionario con los datos de cada pokemon
 
