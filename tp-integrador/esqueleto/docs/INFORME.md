@@ -4,8 +4,10 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 
 ## 1. Grupo y tema
 
-- Tema:
+- Tema: Pokedex
 - Por qué lo eligieron (5–8 líneas):
+
+Los videojuegos de Pokémon, en especial Pokémon Esmeralda, formaron parte de mi infancia, así como la película "Pokémon Lucario y el Misterio de Mew", la cuál es una de mis favoritas. Con la reciente entrega de Pokémon Champions, que está más orientada al competitivo, me atrae la idea de adquirir una noción básica detrás de la lógica detrás de los combates; choques de tipos, críticos random, los infinitos retrocesos provocados por avalancha, estados de efecto, etc. 
 
 ## 2. Modelo
 
