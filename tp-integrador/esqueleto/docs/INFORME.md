@@ -15,6 +15,10 @@ Los videojuegos de Pokémon, en especial Pokémon Esmeralda, formaron parte de m
 Qué es un ítem del catálogo. Qué es mutable y qué no (E1). Cómo se relacionan catálogo, colección principal, pila y cola.
 
 ```text
+Los ítems dentro del catálogo remiten a los datos ligados a los Pokémon, principalmente sus tipos, generación y estadísticas. En un combate pokémon, las estadísticas de los mismos pueden sufrir cambios producto de efectos de estado (p.ej. la parálisis reduce la velocidad del pokemon, o la quemadura merma su ataque físico), por habilidades (p.ej. intimidar reduce el ataque físico rival, liviano duplica la velocidad si no se llevan objetos, etc.), o por movimientos (p.ej. viento helado reduce la velocidad, paz mental mejora la defensa especial y ataque especial propia, etc.). Los tipos también pueden verse alterados por ciertos movimientos, como soak (que cambia al tipo agua) o polvo mágico (que cambia al tipo psíquico.). Por ende, los ítems mutables son las estadísticas del pokémon y sus tipos.
+
+Los ítems no mutables son su identificación, que es única de cada pokemon, y su generación, la cuál está predefinida por la etapa en las que aparecieron por primera vez (no se la debe confundir con el lore de los mismos). 
+
 (pueden pegar un diagrama ASCII o una lista de clases)
 ```
 
