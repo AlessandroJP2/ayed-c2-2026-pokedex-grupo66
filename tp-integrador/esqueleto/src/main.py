@@ -1,3 +1,4 @@
+import src
 from src.config import TEMA
 
 TEMAS = {
