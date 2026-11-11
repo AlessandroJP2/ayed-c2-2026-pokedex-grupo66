@@ -1,5 +1,8 @@
-import src
+import sys
+import os
 from src.config import TEMA
+
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 TEMAS = {
     "pokedex": "Pokédex",
